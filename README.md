@@ -1,0 +1,1 @@
+This project utilises a BERT model for Intent Recognition, which uses machine learning and natural language processing to associate text data and expression to a given intent. BERT can also be used for other NLP tasks.
